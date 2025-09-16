@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mohini Borkar
+## 👋 Hi,
+- I’m Mohini Borkar
 - 🌱 I’m currently learning Pyhton, Java and C++
 - 💞️ I’m looking to collaborate on focusing on performance optimization and competitive coding patterns.
 - 📫 How to reach me with scaling real-time systems, handling audio data pipelines, and deploying lightweight backends for live projects.
