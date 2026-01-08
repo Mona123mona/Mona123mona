@@ -17,12 +17,6 @@
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
 ### 👋 Hi,
 - I’m Mohini Borkar
 - I am working at BeatsVibe technologies.
