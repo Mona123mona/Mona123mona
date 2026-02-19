@@ -43,7 +43,6 @@ I’m open to collaborating on projects focused on:
 ## 📫 Connect With Me
 📧 Email: borkarmohini29@gmail.com  
 💻 GitHub: https://github.com/Mona123mona  
-![dm3](https://github.com/user-attachments/assets/99fd4766-9a34-4565-879e-9e277acbece1)
 
 ---
 
